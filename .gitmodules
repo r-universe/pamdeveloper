@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "nirs4alldatasets"]
+	path = nirs4alldatasets
+	url = https://github.com/cran/nirs4alldatasets
